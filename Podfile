@@ -8,17 +8,11 @@ target 'TX' do
   # Pods for TX
   pod 'lottie-ios'
   pod 'SegementSlide'
-  pod 'ImpressiveNotifications'
-  pod 'Firebase/Firestore'
-  pod 'Firebase/Auth'
-  pod 'BubbleTransition', '~> 3.2.0'
+
   pod 'SDWebImage', '~> 5.0'
-  pod 'ViewAnimator'
+
   pod 'NVActivityIndicatorView'
-  pod 'IQKeyboardManagerSwift'
-  pod 'ViewAnimator'
-  pod 'Firebase/Storage'
-pod 'Firebase/Analytics'
+
 
 
 

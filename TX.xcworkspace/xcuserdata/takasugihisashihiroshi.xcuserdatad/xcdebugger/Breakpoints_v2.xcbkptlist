@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6E6A10CE-36B6-4E99-A75D-08CF7B229399"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9A89C2D6-8E7A-4107-80F9-BE15DFF81568"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TX/C/MemoViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "MemoViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5F2752ED-AE85-47FD-8EEC-C89DC02A3059"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TX/Controller/CameraViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "CameraViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "5F2752ED-AE85-47FD-8EEC-C89DC02A3059 - 8cd6b5a635518d38"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TX.CameraViewController.__deallocating_deinit"
+                  moduleName = "TX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/takasugihisashihiroshi/Dropbox/TX/TX/Controller/CameraViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "5F2752ED-AE85-47FD-8EEC-C89DC02A3059 - 54f30870382c3712"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TX.CameraViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TX.CameraViewController"
+                  moduleName = "TX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/takasugihisashihiroshi/Dropbox/TX/TX/Controller/CameraViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "5F2752ED-AE85-47FD-8EEC-C89DC02A3059 - ab80c0383576296d"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TX.CameraViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TX.CameraViewController"
+                  moduleName = "TX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/takasugihisashihiroshi/Dropbox/TX/TX/Controller/CameraViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "202">
+               </Location>
+               <Location
+                  uuid = "5F2752ED-AE85-47FD-8EEC-C89DC02A3059 - b0640971958259dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TX.CameraViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TX.CameraViewController&gt;"
+                  moduleName = "TX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/takasugihisashihiroshi/Dropbox/TX/TX/Controller/CameraViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "5F2752ED-AE85-47FD-8EEC-C89DC02A3059 - 2e28fd16d8c275f7"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TX.CameraViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TX.CameraViewController&gt;"
+                  moduleName = "TX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/takasugihisashihiroshi/Dropbox/TX/TX/Controller/CameraViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
